@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1646390762849,
+    "nombre": "Zapatillas Jordan",
+    "descripcion": "Zapatillas NIKE modelo Air Jordan, color rojo",
+    "codigo": 1001,
+    "foto": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1618916647-zapatillas-nike-mid-rojo-negro-1618916518.jpg?crop=0.809xw:0.455xh;0.0912xw,0.310xh&resize=768%3A%2A",
+    "precio": 15000,
+    "stock": 19
+  },
+  {
+    "id": 3,
+    "timestamp": 1646481696745,
+    "nombre": "Pantalón Adidas",
+    "descripcion": "Pantalón chupín deportivo Adidas, color negro",
+    "codigo": 1003,
+    "foto": "https://ferreira.vteximg.com.br/arquivos/ids/386920-500-500/ad_GH7305.jpg?v=637745824675230000",
+    "precio": 8200,
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "timestamp": 1646481825618,
+    "nombre": "Short AFA",
+    "descripcion": "Short fútbol Adidas AFA, color blanco",
+    "codigo": 1004,
+    "foto": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e0d2bca1caf0484bb009ac6d00463401_9366/shorts-de-visitante-argentina.jpg",
+    "precio": 4100,
+    "stock": 12
+  },
+  {
+    "id": 5,
+    "timestamp": 1646482028095,
+    "nombre": "Ojotas Nike",
+    "descripcion": "Ojotas NIKE, color negras con banda blanca",
+    "codigo": 1005,
+    "foto": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/149/161/products/diseno-sin-titulo-3121-8022f4fdd3e78eebe216033976098064-1024-1024.png",
+    "precio": 3600,
+    "stock": 8
+  },
+  {
+    "id": 6,
+    "timestamp": 1646482275183,
+    "nombre": "Camiseta PSG",
+    "descripcion": "Camiseta suplente PSG temporada 2022, color blanca",
+    "codigo": 1006,
+    "foto": "https://images.ole.com.ar/2022/02/10/KeDTCQ2tG_720x0__1.jpg",
+    "precio": 11998,
+    "stock": 14
+  },
+  {
+    "id": 7,
+    "timestamp": 1646656644552,
+    "nombre": "Remera CASLA",
+    "descripcion": "Camiseta San Lorenzo NIKE",
+    "codigo": 1007,
+    "foto": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1618916647-zapatillas-nike-mid-rojo-negro-1618916518.jpg?crop=0.809xw:0.455xh;0.0912xw,0.310xh&resize=768%3A%2A",
+    "precio": 7100,
+    "stock": 100
+  }
+]
